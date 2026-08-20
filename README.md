@@ -192,7 +192,7 @@ Judul populer yang bisa dibaca di **[Mangaku](https://mangaku.website)**:
 
 ## 📰 Artikel Terkait
 
-- 📖 [Mangaku — Situs Baca Manga, Manhwa & Manhua Sub Indo Terlengkap 2026](https://medium.com/@NingRong2/mangaku-situs-baca-manga-manhwa-manhua-sub-indo-terlengkap)
+- 📖 [Mangaku — Situs Baca Manga, Manhwa & Manhua Sub Indo Terlengkap 2026](https://medium.com/@afridahardhi/mangaku-situs-baca-manga-manhwa-manhua-sub-indo-terlengkap-2026-69668be104a4)
 
 ---
 
