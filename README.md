@@ -31,24 +31,36 @@ Baca manga, manhwa, dan manhua favorit kamu — **gratis, tanpa iklan mengganggu
 ## 📸 Tampilan Website
 
 ### 🏠 Halaman Utama
+
+<a href="https://mangaku.website">
+  <img src="https://image.thum.io/get/width/1280/crop/900/https://mangaku.website/" alt="Mangaku - Halaman Utama" width="100%">
+</a>
+
 > Slideshow manga ongoing, rekomendasi editor, trending populer, dan update terbaru dalam satu halaman.
 
-![Mangaku Homepage](screenshots/homepage.png)
+### 📋 Daftar Manga
 
-### 📖 Halaman Baca Komik
-> Reader yang nyaman dengan dark mode, navigasi chapter, dan loading gambar yang cepat.
+<a href="https://mangaku.website/manga">
+  <img src="https://image.thum.io/get/width/1280/crop/900/https://mangaku.website/manga" alt="Mangaku - Daftar Manga" width="100%">
+</a>
 
-![Baca Manga](screenshots/reader.png)
-
-### 📋 Daftar Manga / Manhwa / Manhua
 > Jelajahi 500+ judul dengan filter genre, rating, dan kategori.
 
-![Daftar Komik](screenshots/daftar-komik.png)
+### 🔄 Update Terbaru
 
-### 📱 Tampilan Mobile
-> Responsive design — nyaman dibaca di HP, tablet, atau desktop.
+<a href="https://mangaku.website/update-terbaru">
+  <img src="https://image.thum.io/get/width/1280/crop/900/https://mangaku.website/update-terbaru" alt="Mangaku - Update Terbaru" width="100%">
+</a>
 
-![Mobile View](screenshots/mobile.png)
+> Chapter baru yang dirilis setiap hari dengan timestamp real-time.
+
+### 📂 Genre
+
+<a href="https://mangaku.website/genre">
+  <img src="https://image.thum.io/get/width/1280/crop/900/https://mangaku.website/genre" alt="Mangaku - Daftar Genre" width="100%">
+</a>
+
+> 50 genre lengkap — Action, Fantasy, Romance, Isekai, dan lainnya.
 
 ---
 
